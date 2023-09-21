@@ -46,6 +46,11 @@
   width: 100%;
 }
 
+.section-content a {
+  text-decoration: none;
+  font-size: 15px;
+}
+
 .cover-image {
   margin: 10px;
   border: 2px solid white;
